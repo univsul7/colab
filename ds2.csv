@@ -1,0 +1,501 @@
+No.people,Age,Gender,City,Vote
+1,25,male,Sulaimany,Yes
+2,20,male,Erbil,Yes
+3,30,male,Sulaimany,No
+4,45,female ,Duhok,No
+5,32,female ,Sulaimany,No
+6,79,male,Sulaimany,No
+7,44,male,Sulaimany,No
+8,35,female ,Duhok,No
+9,20,male,Duhok,Yes
+10,21,female ,Sulaimany,Yes
+11,56,male,Duhok,No
+12,36,female ,Erbil,No
+13,22,female ,Sulaimany,Yes
+14,18,female ,Erbil,Yes
+15,60,male,Erbil,No
+16,23,male,Duhok,Yes
+17,32,male,Erbil,No
+18,39,male,Sulaimany,No
+19,40,male,Sulaimany,No
+20,44,female ,Erbil,No
+21,27,female ,Erbil,Yes
+22,24,male,Sulaimany,No
+23,28,female ,Duhok,No
+24,38,female ,Duhok,Yes
+25,22,male,Sulaimany,No
+26,56,male,Sulaimany,No
+27,48,female ,Sulaimany,No
+28,41,female ,Sulaimany,No
+29,40,female ,Erbil,Yes
+30,30,female ,Erbil,Yes
+31,31,male,Duhok,No
+32,21,female ,Sulaimany,Yes
+33,19,male,Erbil,Yes
+34,20,female ,Erbil,Yes
+35,67,male,Erbil,No
+36,29,female ,Duhok,No
+37,70,male,Sulaimany,No
+38,22,male,Sulaimany,Yes
+39,33,male,Sulaimany,No
+40,25,female ,Duhok,Yes
+41,42,male,Duhok,No
+42,22,female ,Duhok,Yes
+43,55,male,Duhok,No
+44,45,male,Erbil,No
+45,26,ml,Erbil,Yes
+46,47,female ,Erbil,No
+47,49,male,Erbil,No
+48,35,female ,Sulaimany,Yes
+49,30,male,Sulaimany,Yes
+50,21,female ,Erbil,Yes
+51,29,male,Sulaimany,No
+52,50,female ,Duhok,No
+53,33,female ,Sulaimany,No
+54,25,male,Sulaimany,Yes
+55,55,male,Sulaimany,No
+56,40,male,Sulaimany,No
+57,65,male,Duhok,No
+58,75,male,Duhok,No
+59,21,female ,Erbil,Yes
+60,22,male,Erbil,Yes
+61,67,male,Erbil,No
+62,44,female ,Duhok,No
+63,45,female ,Duhok,No
+64,34,female ,Sulaimany,No
+65,56,female ,Duhok,No
+66,37,male,Erbil,Yes
+67,23,male,Duhok,No
+68,54,female ,Erbil,Yes
+69,24,female ,Sulaimany,Yes
+70,27,female ,Sulaimany,Yes
+71,25,female ,Sulaimany,Yes
+72,26,male,Duhok,Yes
+73,29,male,Duhok,No
+74,20,male,Erbil,Yes
+75,29,female ,Erbil,No
+76,19,female ,Erbil,Yes
+77,18,female ,Sulaimany,Yes
+78,38,male,Sulaimany,No
+79,44,female ,Duhok,No
+80,28,male,Erbil,No
+81,30,male,Erbil,No
+82,69,male,Duhok,No
+83,40,female ,Duhok,No
+84,30,female ,Sulaimany,No
+85,32,male,Sulaimany,Yes
+86,34,male,Sulaimany,No
+87,26,female ,Duhok,No
+88,56,male,Duhok,No
+89,34,female ,Duhok,No
+90,33,male,Erbil,No
+91,22,male,Sulaimany,Yes
+92,21,female ,Sulaimany,Yes
+93,34,female ,Sulaimany,No
+94,45,male,Erbil,No
+95,67,male,Erbil,No
+96,45,female ,Duhok,No
+97,26,male,Sulaimany,Yes
+98,35,female ,Duhok,No
+99,45,female ,Sulaimany,No
+100,67,female ,Erbil,No
+101,21,male,Erbil,Yes
+102,20,male,Erbil,Yes
+103,22,female ,Sulaimany,Yes
+104,32,male,Duhok,No
+105,23,male,Sulaimany,Yes
+106,52,female ,Sulaimany,No
+107,37,male,Sulaimany,No
+108,39,female ,Duhok,No
+109,29,female ,Sulaimany,No
+110,69,male,Sulaimany,No
+111,50,male,Sulaimany,No
+112,33,female ,Sulaimany,No
+113,38,male,Sulaimany,No
+114,29,female ,Duhok,Yes
+115,20,male,Duhok,Yes
+116,19,male,Erbil,Yes
+117,18,male,Erbil,Yes
+118,35,female ,Erbil,No
+119,27,female ,Erbil,Yes
+120,29,female ,Duhok,No
+121,37,male,Erbil,No
+122,31,female ,Sulaimany,Yes
+123,45,male,Duhok,No
+124,32,female ,Sulaimany,No
+125,34,male,Duhok,No
+126,57,female ,Sulaimany,No
+127,24,male,Erbil,Yes
+128,54,female ,Sulaimany,No
+129,32,male,Erbil,No
+130,33,female ,Duhok,No
+131,21,male,Duhok,Yes
+132,20,male,Erbil,Yes
+133,22,male,Duhok,Yes
+134,39,male,Erbil,No
+135,40,male,Sulaimany,No
+136,50,female ,Duhok,No
+137,30,female ,Sulaimany,No
+138,22,male,Duhok,Yes
+139,20,male,Sulaimany,Yes
+140,25,female ,Erbil,Yes
+141,27,female ,Sulaimany,Yes
+142,32,male,Erbil,No
+143,42,male,Sulaimany,No
+144,46,male,Sulaimany,No
+145,49,female ,Sulaimany,No
+146,29,female ,Duhok,No
+147,21,female ,Duhok,Yes
+148,34,male,Erbil,No
+149,23,male,Duhok,Yes
+150,20,female ,Sulaimany,Yes
+151,40,male,Sulaimany,No
+152,33,female ,Erbil,No
+153,38,female ,Duhok,No
+154,27,female ,Sulaimany,Yes
+155,52,male,Erbil,No
+156,28,male,Duhok,No
+157,21,female ,Sulaimany,Yes
+158,45,female ,Erbil,No
+159,19,male,Duhok,Yes
+160,18,female ,Sulaimany,Yes
+161,20,male,Erbil,Yes
+162,23,male,Duhok,Yes
+163,34,female ,Sulaimany,No
+164,21,female ,Duhok,Yes
+165,29,female ,Sulaimany,No
+166,33,male,Duhok,No
+167,20,male,Sulaimany,Yes
+168,19,female ,Erbil,Yes
+169,18,male,Sulaimany,Yes
+170,35,female ,Duhok,No
+171,25,female ,Erbil,Yes
+172,26,male,Erbil,Yes
+173,20,male,Duhok,Yes
+174,40,female ,Sulaimany,No
+175,44,female ,Duhok,No
+176,31,female ,Sulaimany,No
+177,32,male,Erbil,No
+178,21,male,Erbil,Yes
+179,22,female ,Duhok,Yes
+180,32,male,Sulaimany,No
+181,34,female ,Erbil,No
+182,20,female ,Sulaimany,Yes
+183,22,female ,Duhok,Yes
+184,45,male,Sulaimany,No
+185,38,male,Sulaimany,No
+186,26,female ,Sulaimany,Yes
+187,29,female ,Erbil,No
+188,39,female ,Erbil,No
+189,24,female ,Erbil,Yes
+190,28,male,Duhok,No
+191,21,female ,Erbil,Yes
+192,22,male,Duhok,Yes
+193,25,male,Duhok,Yes
+194,32,male,Duhok,No
+195,33,female ,Sulaimany,No
+196,34,male,Erbil,No
+197,25,female ,Sulaimany,Yes
+198,46,female ,Duhok,Yes
+199,44,female ,Sulaimany,No
+200,27,male,Erbil,Yes
+201,29,male,Duhok,No
+202,18,female ,Sulaimany,Yes
+203,20,male,Sulaimany,Yes
+204,23,male,Duhok,Yes
+205,34,female ,Erbil,No
+206,32,female ,Sulaimany,No
+207,27,female ,Sulaimany,Yes
+208,28,female ,Sulaimany,No
+209,44,male,Duhok,No
+210,29,male,Duhok,Yes
+211,21,male,Erbil,Yes
+212,19,male,Erbil,Yes
+213,18,female ,Sulaimany,Yes
+214,22,male,Duhok,Yes
+215,25,male,Erbil,Yes
+216,34,female ,Erbil,No
+217,37,male,Duhok,No
+218,29,male,Erbil,No
+219,35,female ,Sulaimany,No
+220,31,male,Sulaimany,Yes
+221,28,female ,Erbil,No
+222,30,male,Sulaimany,No
+223,27,male,Duhok,Yes
+224,19,female ,Duhok,Yes
+225,25,male,Erbil,Yes
+226,28,female ,Sulaimany,Yes
+227,22,male,Sulaimany,Yes
+228,21,female ,Erbil,Yes
+229,26,male,Duhok,Yes
+230,29,male,Erbil,No
+231,50,female ,Duhok,No
+232,33,male,Sulaimany,No
+233,35,male,Erbil,No
+234,22,male,Sulaimany,Yes
+235,35,female ,Sulaimany,No
+236,45,male,Erbil,No
+237,34,female ,Sulaimany,No
+238,57,male,Sulaimany,No
+239,40,male,Erbil,No
+240,33,female ,Sulaimany,No
+241,32,male,Sulaimany,No
+242,21,female ,Sulaimany,Yes
+243,46,male,Duhok,Yes
+244,38,female ,Erbil,No
+245,34,male,Duhok,No
+246,29,female ,Sulaimany,Yes
+247,25,male,Erbil,No
+248,19,female ,Sulaimany,Yes
+249,18,male,Duhok,Yes
+250,25,male,Erbil,Yes
+251,20,male,Duhok,Yes
+252,32,male,Duhok,Yes
+253,28,female ,Erbil,No
+254,37,male,Duhok,No
+255,33,female ,Sulaimany,Yes
+256,21,male,Erbil,No
+257,42,female ,Sulaimany,No
+258,40,male,Duhok,No
+259,18,female ,Sulaimany,Yes
+260,35,male,Erbil,No
+261,28,female ,Sulaimany,No
+262,24,female ,Sulaimany,No
+263,19,male,Sulaimany,Yes
+264,31,female ,Erbil,No
+265,33,male,Sulaimany,No
+266,41,male,Duhok,Yes
+267,24,female ,Duhok,Yes
+268,29,male,Erbil,Yes
+269,19,female ,Sulaimany,Yes
+270,18,male,Sulaimany,Yes
+271,18,female ,Erbil,Yes
+272,20,male,Duhok,Yes
+273,19,male,Erbil,No
+274,27,female ,Duhok,No
+275,24,male,Sulaimany,No
+276,39,male,Erbil,No
+277,18,male,Sulaimany,Yes
+278,45,female ,Sulaimany,No
+279,32,male,Erbil,No
+280,25,female ,Sulaimany,No
+281,23,male,Sulaimany,No
+282,19,male,Erbil,No
+283,32,female ,Sulaimany,No
+284,18,male,Sulaimany,No
+285,18,female ,Sulaimany,Yes
+286,19,male,Sulaimany,Yes
+287,20,female ,Sulaimany,No
+288,35,male,Sulaimany,No
+289,31,female ,Sulaimany,Yes
+290,37,male,Sulaimany,No
+291,46,female ,Sulaimany,Yes
+292,39,male,Sulaimany,Yes
+293,27,male,Sulaimany,Yes
+294,26,male,Sulaimany,Yes
+295,32,male,Sulaimany,Yes
+296,21,female ,Sulaimany,No
+297,19,male,Sulaimany,No
+298,19,female ,Sulaimany,Yes
+299,18,male,Sulaimany,No
+300,18,female ,Sulaimany,No
+301,18,male,Sulaimany,No
+302,19,female ,Sulaimany,Yes
+303,19,male,Sulaimany,No
+304,29,female ,Sulaimany,No
+305,32,female ,Sulaimany,No
+306,35,male,Sulaimany,Yes
+307,40,female ,Erbil,No
+308,37,male,Sulaimany,No
+309,29,male,Duhok,Yes
+310,33,female ,Duhok,No
+311,19,male,Erbil,Yes
+312,18,female ,Sulaimany,Yes
+313,18,male,Sulaimany,Yes
+314,19,female ,Erbil,Yes
+315,18,male,Duhok,Yes
+316,18,male,Erbil,No
+317,19,female ,Duhok,No
+318,19,male,Sulaimany,No
+319,19,male,Erbil,No
+320,23,male,Sulaimany,Yes
+321,33,female ,Sulaimany,No
+322,25,male,Erbil,No
+323,29,female ,Sulaimany,No
+324,43,male,Sulaimany,No
+325,49,male,Erbil,No
+326,33,female ,Sulaimany,No
+327,29,female ,Sulaimany,Yes
+328,28,male,Sulaimany,Yes
+329,33,female ,Erbil,No
+330,19,male,Duhok,Yes
+331,19,male,Erbil,No
+332,21,female ,Duhok,No
+333,30,male,Sulaimany,No
+334,26,male,Erbil,No
+335,28,male,Sulaimany,Yes
+336,32,female ,Sulaimany,No
+337,20,male,Erbil,No
+338,44,female ,Sulaimany,No
+339,38,male,Sulaimany,No
+340,41,male,Erbil,No
+341,44,female ,Sulaimany,No
+342,46,female ,Sulaimany,No
+343,49,male,Sulaimany,No
+344,22,female ,Erbil,Yes
+345,33,male,Duhok,Yes
+346,43,male,Erbil,No
+347,19,female ,Duhok,No
+348,32,male,Sulaimany,No
+349,18,male,Erbil,No
+350,33,male,Sulaimany,Yes
+351,39,female ,Sulaimany,No
+352,43,male,Erbil,No
+353,50,female ,Sulaimany,No
+354,21,male,Sulaimany,No
+355,19,male,Erbil,No
+356,40,male,Erbil,No
+357,18,female ,Sulaimany,Yes
+358,19,male,Sulaimany,No
+359,19,male,Erbil,No
+360,40,male,Erbil,No
+361,43,female ,Sulaimany,Yes
+362,31,male,Sulaimany,No
+363,27,female ,Erbil,Yes
+364,46,male,Duhok,Yes
+365,19,male,Erbil,No
+366,35,female ,Duhok,No
+367,22,male,Sulaimany,No
+368,18,male,Erbil,Yes
+369,37,male,Sulaimany,Yes
+370,19,female ,Sulaimany,No
+371,19,male,Erbil,Yes
+372,23,female ,Sulaimany,No
+373,19,male,Sulaimany,No
+374,25,male,Erbil,No
+375,19,male,Erbil,Yes
+376,28,female ,Sulaimany,No
+377,34,male,Sulaimany,No
+378,18,male,Erbil,No
+379,24,male,Erbil,No
+380,22,female ,Sulaimany,Yes
+381,30,male,Sulaimany,No
+382,40,female ,Erbil,Yes
+383,27,male,Duhok,Yes
+384,19,male,Erbil,No
+385,30,female ,Duhok,No
+386,18,male,Sulaimany,No
+387,27,male,Erbil,No
+388,19,male,Sulaimany,Yes
+389,18,female ,Sulaimany,No
+390,18,male,Erbil,No
+391,18,female ,Sulaimany,Yes
+392,24,male,Sulaimany,No
+393,27,male,Erbil,No
+394,36,male,Erbil,Yes
+395,39,female ,Sulaimany,No
+396,40,male,Sulaimany,No
+397,20,male,Erbil,Yes
+398,19,male,Erbil,Yes
+399,34,male,Erbil,No
+400,18,female ,Duhok,No
+401,24,male,Sulaimany,No
+402,27,male,Erbil,No
+403,22,male,Sulaimany,Yes
+404,24,female ,Sulaimany,No
+405,24,male,Erbil,No
+406,18,female ,Sulaimany,No
+407,19,male,Sulaimany,Yes
+408,18,male,Erbil,Yes
+409,18,male,Erbil,No
+410,40,female ,Sulaimany,No
+411,25,male,Sulaimany,No
+412,19,male,Erbil,Yes
+413,28,male,Erbil,Yes
+414,37,male,Erbil,No
+415,41,female ,Sulaimany,Yes
+416,19,male,Sulaimany,No
+417,20,male,Erbil,No
+418,25,male,Erbil,No
+419,42,female ,Sulaimany,No
+420,18,male,Sulaimany,Yes
+421,23,male,Erbil,No
+422,26,male,Erbil,Yes
+423,24,male,Erbil,Yes
+424,41,female ,Sulaimany,No
+425,26,male,Sulaimany,Yes
+426,25,male,Erbil,No
+427,28,male,Erbil,No
+428,18,female ,Sulaimany,No
+429,21,male,Sulaimany,Yes
+430,19,male,Erbil,Yes
+431,18,male,Erbil,Yes
+432,41,male,Erbil,Yes
+433,25,female ,Sulaimany,No
+434,27,male,Sulaimany,No
+435,36,male,Erbil,No
+436,34,male,Erbil,No
+437,25,female ,Sulaimany,No
+438,25,male,Sulaimany,No
+439,24,male,Erbil,Yes
+440,19,male,Erbil,No
+441,18,male,Erbil,Yes
+442,18,female ,Sulaimany,Yes
+443,18,male,Sulaimany,No
+444,28,male,Erbil,Yes
+445,37,male,Erbil,No
+446,19,female ,Sulaimany,No
+447,42,male,Sulaimany,Yes
+448,18,female ,Erbil,No
+449,25,male,Sulaimany,No
+450,34,male,Duhok,Yes
+451,33,female ,Duhok,Yes
+452,19,male,Erbil,Yes
+453,24,female ,Sulaimany,No
+454,20,male,Sulaimany,Yes
+455,19,female ,Erbil,No
+456,30,male,Duhok,Yes
+457,27,male,Erbil,No
+458,19,female ,Duhok,No
+459,39,male,Sulaimany,No
+460,28,male,Erbil,No
+461,18,male,Sulaimany,Yes
+462,19,female ,Sulaimany,No
+463,18,male,Erbil,Yes
+464,19,female ,Sulaimany,No
+465,25,male,Sulaimany,Yes
+466,18,male,Erbil,No
+467,25,female ,Sulaimany,No
+468,18,male,Sulaimany,No
+469,27,female ,Sulaimany,Yes
+470,34,male,Duhok,Yes
+471,39,female ,Erbil,No
+472,28,male,Duhok,No
+473,18,female ,Sulaimany,Yes
+474,19,male,Erbil,No
+475,27,female ,Sulaimany,Yes
+476,19,male,Duhok,Yes
+477,32,male,Erbil,Yes
+478,21,male,Duhok,Yes
+479,20,male,Duhok,Yes
+480,23,female ,Erbil,No
+481,19,male,Duhok,No
+482,24,female ,Sulaimany,Yes
+483,28,male,Erbil,No
+484,31,female ,Sulaimany,No
+485,35,male,Duhok,No
+486,39,female ,Sulaimany,Yes
+487,38,male,Erbil,No
+488,19,female ,Sulaimany,No
+489,21,female ,Sulaimany,No
+490,18,male,Sulaimany,Yes
+491,19,female ,Erbil,No
+492,18,male,Sulaimany,No
+493,24,male,Duhok,Yes
+494,26,female ,Duhok,Yes
+495,31,male,Erbil,No
+496,18,female ,Sulaimany,No
+497,40,male,Sulaimany,No
+498,19,female ,Erbil,Yes
+499,28,male,Duhok,Yes
+500,18,male,Erbil,No
